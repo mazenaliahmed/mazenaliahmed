@@ -2,9 +2,9 @@
 
 # Hi there, I'm Mazen Ali 👋
 
-### Full-Stack Developer | Odoo Developer | HealthTech Specialist 🚀
+### Full-Stack Developer | Backend Specialist | Odoo Developer 🚀
 
-*A passionate developer building robust and scalable web applications with a focus on backend architecture, ERP systems, and healthcare technology.*
+*A passionate developer with a comprehensive background in designing, developing, and deploying robust web applications. My expertise is deeply rooted in API Management and creating scalable backend solutions.*
 
 </div>
 
@@ -13,13 +13,12 @@
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/mazen-al-ariqi-82a01a324" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:mazenali771499215@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <!-- Add other social links here, e.g., Twitter, Portfolio Website -->
 </p>
 
 ---
@@ -49,10 +48,6 @@
   <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
   <a href="https://www.microsoft.com/sql-server" target="_blank"><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/></a>
   <a href="https://www.oracle.com/database" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/></a>
-
-  <!-- Specialized -->
-  <a href="https://www.nextgen.com/products-and-services/integration-engine" target="_blank"><img src="https://img.shields.io/badge/Mirth_Connect-0078D4?style=for-the-badge&logo=mirth-connect&logoColor=white" alt="Mirth Connect"/></a>
-  <a href="https://www.hl7.org" target="_blank"><img src="https://img.shields.io/badge/HL7-FF9900?style=for-the-badge&logo=hl7&logoColor=white" alt="HL7"/></a>
 </p>
 
 ---
